@@ -1,0 +1,18 @@
+C:\Users\carrey\source\repos\Ticket0\RabbitMQ.Messages\bin\Debug\netcoreapp3.1\RabbitMQ.Messages.deps.json
+C:\Users\carrey\source\repos\Ticket0\RabbitMQ.Messages\bin\Debug\netcoreapp3.1\RabbitMQ.Messages.dll
+C:\Users\carrey\source\repos\Ticket0\RabbitMQ.Messages\obj\Debug\netcoreapp3.1\RabbitMQ.Messages.AssemblyInfoInputs.cache
+C:\Users\carrey\source\repos\Ticket0\RabbitMQ.Messages\obj\Debug\netcoreapp3.1\RabbitMQ.Messages.AssemblyInfo.cs
+C:\Users\carrey\source\repos\Ticket0\RabbitMQ.Messages\obj\Debug\netcoreapp3.1\RabbitMQ.Messages.csprojAssemblyReference.cache
+C:\Users\carrey\source\repos\Ticket0\RabbitMQ.Messages\obj\Debug\netcoreapp3.1\RabbitMQ.Messages.csproj.CoreCompileInputs.cache
+C:\Users\carrey\source\repos\Ticket0\RabbitMQ.Messages\bin\Debug\netcoreapp3.1\RabbitMQ.Messages.pdb
+C:\Users\carrey\source\repos\Ticket0\RabbitMQ.Messages\obj\Debug\netcoreapp3.1\RabbitMQ.Messages.dll
+C:\Users\carrey\source\repos\Ticket0\RabbitMQ.Messages\obj\Debug\netcoreapp3.1\RabbitMQ.Messages.pdb
+D:\Microsoft Visual Studio\repos\Ticket1\Ticket0\RabbitMQ.Messages\bin\Debug\netcoreapp3.1\RabbitMQ.Messages.deps.json
+D:\Microsoft Visual Studio\repos\Ticket1\Ticket0\RabbitMQ.Messages\bin\Debug\netcoreapp3.1\RabbitMQ.Messages.dll
+D:\Microsoft Visual Studio\repos\Ticket1\Ticket0\RabbitMQ.Messages\bin\Debug\netcoreapp3.1\RabbitMQ.Messages.pdb
+D:\Microsoft Visual Studio\repos\Ticket1\Ticket0\RabbitMQ.Messages\obj\Debug\netcoreapp3.1\RabbitMQ.Messages.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\repos\Ticket1\Ticket0\RabbitMQ.Messages\obj\Debug\netcoreapp3.1\RabbitMQ.Messages.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\repos\Ticket1\Ticket0\RabbitMQ.Messages\obj\Debug\netcoreapp3.1\RabbitMQ.Messages.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\repos\Ticket1\Ticket0\RabbitMQ.Messages\obj\Debug\netcoreapp3.1\RabbitMQ.Messages.AssemblyInfo.cs
+D:\Microsoft Visual Studio\repos\Ticket1\Ticket0\RabbitMQ.Messages\obj\Debug\netcoreapp3.1\RabbitMQ.Messages.dll
+D:\Microsoft Visual Studio\repos\Ticket1\Ticket0\RabbitMQ.Messages\obj\Debug\netcoreapp3.1\RabbitMQ.Messages.pdb

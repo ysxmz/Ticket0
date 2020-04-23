@@ -1,0 +1,9 @@
+D:\Microsoft Visual Studio\repos\Ticket1\Ticket0\RabbitMQ.Messages\bin\Release\netcoreapp3.1\RabbitMQ.Messages.deps.json
+D:\Microsoft Visual Studio\repos\Ticket1\Ticket0\RabbitMQ.Messages\bin\Release\netcoreapp3.1\RabbitMQ.Messages.dll
+D:\Microsoft Visual Studio\repos\Ticket1\Ticket0\RabbitMQ.Messages\bin\Release\netcoreapp3.1\RabbitMQ.Messages.pdb
+D:\Microsoft Visual Studio\repos\Ticket1\Ticket0\RabbitMQ.Messages\obj\Release\netcoreapp3.1\RabbitMQ.Messages.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\repos\Ticket1\Ticket0\RabbitMQ.Messages\obj\Release\netcoreapp3.1\RabbitMQ.Messages.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\repos\Ticket1\Ticket0\RabbitMQ.Messages\obj\Release\netcoreapp3.1\RabbitMQ.Messages.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\repos\Ticket1\Ticket0\RabbitMQ.Messages\obj\Release\netcoreapp3.1\RabbitMQ.Messages.AssemblyInfo.cs
+D:\Microsoft Visual Studio\repos\Ticket1\Ticket0\RabbitMQ.Messages\obj\Release\netcoreapp3.1\RabbitMQ.Messages.dll
+D:\Microsoft Visual Studio\repos\Ticket1\Ticket0\RabbitMQ.Messages\obj\Release\netcoreapp3.1\RabbitMQ.Messages.pdb
